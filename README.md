@@ -2,7 +2,7 @@
 
 [中文文档](./README_CN.md)
 
-Mandy is a `dApp` built on the Sui blockchain that allows users to create and send "time capsule" letters, which can only be viewed by recipients after a specific point in time. Letter content is encrypted and decrypted using `Seal`, and letter attachments are stored using `Walrus`.
+Mandy is a `dApp` built on the Sui blockchain that allows users to create and send "time capsule" letters, which can only be viewed by recipients after a specific point in time. Both the letter content and attachments are encrypted and decrypted using `Seal`, and letter attachments are stored in `Walrus`.
 
 ## Project Features
 
