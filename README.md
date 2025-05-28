@@ -16,4 +16,4 @@ Mandy is a `dApp` built on the Sui blockchain that allows users to create and se
 
 - [PPT](./PPT/Mandy-PPT.pdf)
 - testnet: https://mandylab.vercel.app
-- video: https://www.youtube.com/watch?v=9VD1sHJm9RA
+- video: https://drive.google.com/file/d/1HhJKDDMgnjkzBmMDgaF4qfw-OboFsfGv/view?usp=sharing
